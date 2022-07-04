@@ -2,4 +2,4 @@
 
 I'm not sure what this means.
 
-Where next? [Here?](https://github.com/RichardPatterson/2022-07-04_if)
+Where next? [Here?](https://richardpatterson.github.io/blog/2022-07-04_if.md)
